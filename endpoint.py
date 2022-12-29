@@ -1,6 +1,6 @@
 import requests 
 
-url = input('enter the url : https://manu.com')
+url = input('enter the url : https://manu')
 if url[0:7] == ('https://'):
     print('proceed')
 else:
