@@ -1,6 +1,6 @@
 import requests 
 
-url = input('enter the url : ')
+url = input('enter the url : hppts://google.com')
 if url[0:7] == ('https://'):
     print('proceed')
 else:
